@@ -1,0 +1,14 @@
+20240724	21:37:38	7cfe1757-9d88-439e-a23b-b3c6b3f6ec48	SyntaxError: Unexpected token a in JSON at position 15	PUT
+		/users	undefined
+20240724	21:39:22	55a1514f-f4d2-4b2b-b2a1-79fb2b4d66fa	SyntaxError: Unexpected token c in JSON at position 7	PUT
+		/users	undefined
+20240724	21:39:29	bbb3290a-3b3e-4980-b44a-fde5b951a1f6	SyntaxError: Unexpected token c in JSON at position 7	PUT
+		/users	undefined
+20240724	21:39:39	d7de9293-8fe0-4c16-b717-ddc2733e889f	SyntaxError: Unexpected token c in JSON at position 7	PUT
+		/users	undefined
+20240724	21:56:21	986f0b9b-4880-4718-b7e3-bc71ccfc1e71	SyntaxError: Unexpected token { in JSON at position 3	GET
+		/roomCode	undefined
+20240724	21:56:25	6689e698-0d88-41fb-a996-872925025ebc	SyntaxError: Unexpected token { in JSON at position 3	PUT
+		/roomCode	undefined
+20240724	21:56:39	f60e4aa9-bbe6-48b2-bee4-ec2db79e5476	SyntaxError: Unexpected token } in JSON at position 130	PUT
+		/roomCode	undefined
